@@ -89,11 +89,6 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 **Have fun building!** 🚀
 FEM_equalizer-landing-page
-=======
-
-# FEM_equalizer-landing-page
-
-> > > > > > > 7a5fe058778a79eed99a7a18975dc31c83abaa32
 
 # FEM_equalizer-landing-page_01
 
